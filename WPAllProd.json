@@ -1,0 +1,408 @@
+{
+    "data": {
+        "products": [
+            {
+                "productId": "HLFixedInvestmentIO",
+                "lastUpdated": "2020-02-05T04:11:14Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Fixed Rate Investment Property Loan Interest Only",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/"
+                }
+            },
+            {
+                "productId": "PLUnsecured",
+                "lastUpdated": "2020-02-05T00:27:16Z",
+                "productCategory": "PERS_LOANS",
+                "name": "Unsecured Personal Loan",
+                "description": "Turn great thinking into great doing. And right now, existing customers get 1% p.a. off the rate when you are approved via online banking.^",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?promoCode=WS1#/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/unsecured-personal-loan/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "eligibilityUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/unsecured-personal-loan/"
+                }
+            },
+            {
+                "productId": "PLOverdraft",
+                "lastUpdated": "2020-02-05T00:27:16Z",
+                "productCategory": "PERS_LOANS",
+                "name": "Personal Overdraft",
+                "description": "Please note this product is currently not for sale.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/overdrafts/personal-overdrafts/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "eligibilityUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/overdrafts/personal-overdrafts/"
+                }
+            },
+            {
+                "productId": "PLTemporaryOverdraft",
+                "lastUpdated": "2020-02-05T00:27:16Z",
+                "productCategory": "PERS_LOANS",
+                "name": "Temporary Overdraft",
+                "description": "Extra cash for the short term. A Temporary Overdraft lets you access extra funds through your bank account for up to 45 days. Helps cover short-term financial shortfalls.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/overdrafts/temporary-overdrafts/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "eligibilityUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/overdrafts/temporary-overdrafts/"
+                }
+            },
+            {
+                "productId": "PLCar",
+                "lastUpdated": "2020-02-05T00:27:15Z",
+                "productCategory": "PERS_LOANS",
+                "name": "Car Loan",
+                "description": "Your dream car could be closer than you think with a Westpac Car Loan.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?appType=Secured#/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/car-loan/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+                    "eligibilityUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?appType=Secured#/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/car-loan/"
+                }
+            },
+            {
+                "productId": "PLFlexi",
+                "lastUpdated": "2020-02-05T00:27:15Z",
+                "productCategory": "PERS_LOANS",
+                "name": "Flexi Loan",
+                "description": "An ongoing line of credit facility you can access when you need to, without having to reapply.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://banking.westpac.com.au/oregon/flexiloan/pol/ac/appCapture?funcReqd=NewAppl&exitapp=yes#/welcome",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/flexi-loan/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Flexi_Loan_Conditions.pdf",
+                    "eligibilityUri": "https://banking.westpac.com.au/oregon/flexiloan/pol/ac/appCapture?funcReqd=NewAppl&exitapp=yes#/welcome",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/flexi-loan/"
+                }
+            },
+            {
+                "productId": "HLVariableOffsetInvestmentPI",
+                "lastUpdated": "2020-02-05T00:26:52Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Variable Investor Home Loan with Offset Principal & Interest",
+                "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/"
+                }
+            },
+            {
+                "productId": "HLVariableOffsetOwnerOccupiedPI",
+                "lastUpdated": "2020-02-05T00:26:52Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Variable Home Loan with Offset Principal & Interest",
+                "description": "Own your home sooner with our Rocket Repay Home Loan and optional linked offset account.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/"
+                }
+            },
+            {
+                "productId": "HLVariableOffsetInvestmentIO",
+                "lastUpdated": "2020-02-05T00:26:52Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Variable Investor Home Loan with Offset Interest Only",
+                "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/"
+                }
+            },
+            {
+                "productId": "HLVariableOffsetOwnerOccupiedIO",
+                "lastUpdated": "2020-02-05T00:26:52Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Variable Home Loan with Offset Interest Only",
+                "description": "Own your home sooner with our Rocket Repay Home Loan and optional linked offset account.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/"
+                }
+            },
+            {
+                "productId": "HLVariableFlexiOwnerOccupiedPI",
+                "lastUpdated": "2020-02-05T00:26:51Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Flexi First Option Home Loan Principal & Interest",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan"
+                }
+            },
+            {
+                "productId": "HLVariableFlexiOwnerOccupiedIO",
+                "lastUpdated": "2020-02-05T00:26:51Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Flexi First Option Home Loan Interest Only",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan"
+                }
+            },
+            {
+                "productId": "HLVariableFlexiInvestmentIO",
+                "lastUpdated": "2020-02-05T00:26:51Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Flexi First Option Investment Loan Interest Only",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan"
+                }
+            },
+            {
+                "productId": "HLVariableFlexiInvestmentPI",
+                "lastUpdated": "2020-02-05T00:26:51Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Flexi First Option Investment Loan Principal & Interest",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan"
+                }
+            },
+            {
+                "productId": "HLFixedInvestmentPI",
+                "lastUpdated": "2020-02-05T00:26:49Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Fixed Rate Investment Property Loan Principal & Interest",
+                "description": "",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/"
+                }
+            },
+            {
+                "productId": "HLFixedOwnerOccupiedIO",
+                "lastUpdated": "2020-02-05T00:26:49Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Fixed Options Home Loan Interest Only",
+                "description": "Enjoy the certainty of knowing what your repayments will be.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan"
+                }
+            },
+            {
+                "productId": "HLFixedOwnerOccupiedPI",
+                "lastUpdated": "2020-02-05T00:26:48Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Fixed Options Home Loan Principal & Interest",
+                "description": "Enjoy the certainty of knowing what your repayments will be.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan"
+                }
+            },
+            {
+                "productId": "HLBridgingOption",
+                "lastUpdated": "2020-02-04T03:48:53Z",
+                "productCategory": "RESIDENTIAL_MORTGAGES",
+                "name": "Bridging Home Loan",
+                "description": "Apart from buying an existing property, bridging loans are also an option if you want to stay in your current property while you build a new property. It saves you the hassle of selling your property and renting somewhere short-term, not to mention having to pay for the costs of moving twice.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+                "isTailored": "true",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+                    "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+                    "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+                    "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural"
+                }
+            },
+            {
+                "productId": "SavBusCashRes",
+                "lastUpdated": "2019-12-06T02:42:59Z",
+                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+                "name": "Westpac Business Cash Reserve",
+                "description": "Earn interest on your collected GST and access your funds anytime you need them with our most popular business online savings account",
+                "brand": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/cash-reserve/"
+                }
+            },
+            {
+                "productId": "SavBusCashResBonus",
+                "lastUpdated": "2019-12-06T02:42:59Z",
+                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+                "name": "Westpac Business Cash Reserve Bonus",
+                "description": "Earn interest on your collected GST with a bonus interest rate when no withdrawals are made in a month.",
+                "brand": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/cash-reserve-bonus-interest/"
+                }
+            },
+            {
+                "productId": "SavComSolCashResBonus",
+                "lastUpdated": "2019-12-06T02:42:58Z",
+                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+                "name": "Community Solutions Cash Reserve Bonus",
+                "description": "An online-only savings account that rewards community groups and NFPs with a bonus interest rate when no withdrawals are made in a month",
+                "brand": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/not-for-profit/community-cash-reserve-bonus-interest/"
+                }
+            },
+            {
+                "productId": "SavComSolCashRes",
+                "lastUpdated": "2019-12-06T02:42:57Z",
+                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+                "name": "Community Solutions Cash Reserve",
+                "description": "Earn interest on your surplus funds and access your funds anytime you need them.",
+                "brand": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/not-for-profit/community-cash-reserve/"
+                }
+            },
+            {
+                "productId": "CCAmexAltBlack",
+                "lastUpdated": "2019-11-20T04:08:22Z",
+                "productCategory": "CRED_AND_CHRG_CARDS",
+                "name": "The American Express Westpac Altitude Black Card",
+                "description": "Westpac's co-branded Black Card offering you a choice of three great rewards programs with our highest points earn rate, premium travel and lifestyle services.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/americanexpress/"
+                }
+            },
+            {
+                "productId": "CCAmexAltPlat",
+                "lastUpdated": "2019-11-20T04:08:22Z",
+                "productCategory": "CRED_AND_CHRG_CARDS",
+                "name": "American Express Westpac Altitude Platinum Card",
+                "description": "Westpac's co-branded Platinum Card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/americanexpress/"
+                }
+            },
+            {
+                "productId": "CCAltBlack",
+                "lastUpdated": "2019-11-20T04:08:21Z",
+                "productCategory": "CRED_AND_CHRG_CARDS",
+                "name": "Altitude Black Card",
+                "description": "Westpac's most rewarding card offering you a choice of three great rewards programs with our highest points earn rate, premium travel and lifestyle services.",
+                "brand": "Westpac",
+                "brandName": "Westpac",
+                "isTailored": "false",
+                "additionalInformation": {
+                    "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-black/",
+                    "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+                }
+            }
+        ]
+    },
+    "meta": {
+        "totalRecords": 49,
+        "totalPages": 2
+    },
+    "links": {
+        "self": "https://digital-api.westpac.com.au/cds-au/v1/banking/products",
+        "next": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page=2&page-size=25",
+        "first": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page=1&page-size=25",
+        "last": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page=2&page-size=25"
+    }
+}
